@@ -1,6 +1,6 @@
 /*****************************************************************************
  * File name:   plug_and_play.h
- * Developer:   HRD07
+ * Developer:   
  * Version: 	0
  * Date:        2019-04-22 09:54:54
  * Description: 

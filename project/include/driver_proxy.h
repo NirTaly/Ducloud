@@ -1,6 +1,6 @@
 /*****************************************************************************
  * File name:   driver_proxy.h
- * Developer:   HRD07
+ * Developer:   
  * Version: 	4
  * Date:        2019-03-27 10:26:28
  * Description: 

@@ -1,6 +1,6 @@
 /*****************************************************************************
  * File name:   thread_pool.h
- * Developer:   HRD7
+ * Developer:   
  * Version:     1
  * Date:        2019-04-14 10:43:22
  * Description: 

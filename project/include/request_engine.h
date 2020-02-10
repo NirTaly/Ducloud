@@ -1,6 +1,6 @@
 /*****************************************************************************
  * File name:   request_engine.h
- * Developer:   HRD7
+ * Developer:   
  * Version:     1
  * Date:        2019-04-28 15:31:24
  * Description: Request Engine Framework header

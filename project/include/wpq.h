@@ -1,6 +1,6 @@
 /*******************************************************************************
  * File name:   serializer.h
- * Developer:   HRD07	
+ * Developer:   	
  * Version:		0 
  * Date:        2019-04-08 13:09:47
  * Description: 

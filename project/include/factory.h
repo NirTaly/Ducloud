@@ -1,6 +1,6 @@
 /*****************************************************************************
  * File name:   factory.h
- * Developer:   HRD07
+ * Developer:   
  * Version: 	1
  * Date:        2019-04-07 14:42:44
  * Description: Factory header

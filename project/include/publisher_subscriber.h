@@ -1,6 +1,6 @@
 /*****************************************************************************
  * File name:   publisher_subscriber.h
- * Developer:   HRD07
+ * Developer:   
  * Version: 	1
  * Date:        2019-04-18 12:57:57
  * Description: 
